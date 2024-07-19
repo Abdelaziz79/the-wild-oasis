@@ -4,12 +4,12 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 
 **Table of contents**
 
-- [Key Features]([key-features](https://github.com/Abdelaziz79/the-wild-oasis#key-features))
-- [My process](https://github.com/Abdelaziz79/the-wild-oasis#my-process)
-    - [Built with](https://github.com/Abdelaziz79/the-wild-oasis#built-with)
-    - [What I learned](https://github.com/Abdelaziz79/the-wild-oasis#what-i-learned)
-- [Installation](https://github.com/Abdelaziz79/the-wild-oasis#installation)
-- [Acknowledgments](https://github.com/Abdelaziz79/the-wild-oasis#acknowledgments)
+- [Key Features](#key-features)
+- [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+- [Installation](#installation)
+- [Acknowledgments](#acknowledgments)
 
 **Key Features**
 
